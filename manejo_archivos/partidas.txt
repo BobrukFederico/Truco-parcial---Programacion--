@@ -1,0 +1,2 @@
+Jugador: 4
+Maquina: 4
